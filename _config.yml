@@ -1,3 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: Convolutional Neural Network training with Atmospheric Rivers data
+description: This page details the curation of a dataset suitable for training a deep neural model to identify atmospheric rivers in Integrated Vapor Transport (IVT) maps through image classification. The dataset is created using the ArcGIS Pro workspace.
