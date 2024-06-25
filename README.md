@@ -1,8 +1,5 @@
-# Atmospheric rivers dataset for machine learning training
 
-This page details the curation of a dataset suitable for training a deep neural model to identify atmospheric rivers in Integrated Vapor Transport (IVT) maps through image classification. The dataset is created using the ArcGIS Pro workspace.
-
-The data has been [published](https://doi.org/10.5281/zenodo.12177339) and can be cited using: **insert citation when data is published**
+The following data has been [published](https://doi.org/10.5281/zenodo.12177339) and can be cited using: **insert citation when data is published**
 
 ## Atmospheric Rivers
 
