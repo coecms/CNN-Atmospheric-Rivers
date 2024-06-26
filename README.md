@@ -1,6 +1,5 @@
 # CNN-Atmospheric-Rivers
-
-[![DOI](https://zenodo.org/badge/531778489.svg)](https://zenodo.org/doi/10.5281/zenodo.11139593)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12538779.svg)](https://doi.org/10.5281/zenodo.12538779)
 
 In this tutorial (CNN_AR_tutorial.ipynb), we will use an Atmospheric Rivers dataset to train a Convolutional Neural Network (CNN) that can identify whether a map contains an atmospheric river or not.
 
@@ -9,3 +8,4 @@ In this tutorial (CNN_AR_tutorial.ipynb), we will use an Atmospheric Rivers data
 - **Evaluate model performance:** after training, we'll evaluate the model on data that was not used during training.
 
 The data being used is avaiable here: https://doi.org/10.5281/zenodo.12177339 and can be cited using:
+Pathiranage, A. S., Reid, K., & Hobeichi, S. (2024). Atmospheric rivers dataset for machine learning training (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12177339
