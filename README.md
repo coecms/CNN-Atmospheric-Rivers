@@ -1,5 +1,11 @@
 
-The following data has been [published](https://doi.org/10.5281/zenodo.12177339) and can be cited using: **insert citation when data is published**
+The following data has been [published](https://doi.org/10.5281/zenodo.12177339) and can be cited using:
+
+Pathiranage, A. S., Reid, K., & Hobeichi, S. (2024). Atmospheric rivers dataset for machine learning training (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12177339
+
+A Jupyter notebook detailing how to use this data to train a Convolutional Neural Network (CNN) that can identify whether a map contains an atmospheric river or not can be found and cited using:
+
+Mesto, M., Hobeichi, S., & Green, S. (2024). CNN-Atmospheric-Rivers (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.12538779
 
 ## Atmospheric Rivers
 
